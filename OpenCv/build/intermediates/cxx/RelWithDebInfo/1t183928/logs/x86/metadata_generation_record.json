@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 967416866
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\\android_gradle_build.json due to:",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1175834246
+  },
+  {
+    "level_": 0,
+    "message_": "- a hard configure file changed, will remove stale configuration folder",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1720282897
+  },
+  {
+    "level_": 0,
+    "message_": "  - F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\\metadata_generation_command.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1874020733
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\u0027",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 879667660
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\u0027",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 594691800
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"F:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HF:\\\\Documents\\\\openCV\\\\OpenCv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dF:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\openCV\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1t183928\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\openCV\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1t183928\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BF:\\\\Documents\\\\openCV\\\\OpenCv\\\\.cxx\\\\RelWithDebInfo\\\\1t183928\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -834191286
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"F:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HF:\\\\Documents\\\\openCV\\\\OpenCv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dF:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\openCV\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1t183928\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\openCV\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1t183928\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BF:\\\\Documents\\\\openCV\\\\OpenCv\\\\.cxx\\\\RelWithDebInfo\\\\1t183928\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1615357065
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\\compile_commands.json.bin normally",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -812117394
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1443986354
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked F:\\Documents\\openCV\\OpenCv\\.cxx\\RelWithDebInfo\\1t183928\\x86\\compile_commands.json to F:\\Documents\\openCV\\OpenCv\\.cxx\\tools\\release\\x86\\compile_commands.json",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2073870706
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "F:\\Documents\\openCV\\OpenCv\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -912907858
+  }
+]
