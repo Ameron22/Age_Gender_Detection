@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-4:12
-INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-4:12
-INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-4:12
+ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-3:12
+INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-3:12
+INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-3:12
 	package
-		ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:3:7-27
+		ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:11-31
 		INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml
 		INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:11-69
+		ADDED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml:2:1-3:12
 uses-sdk
 INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Documents\Age_gender_detector\OpenCv\java\AndroidManifest.xml

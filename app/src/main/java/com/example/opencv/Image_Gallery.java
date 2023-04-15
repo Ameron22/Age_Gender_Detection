@@ -52,7 +52,7 @@ public class Image_Gallery extends AppCompatActivity{
             IVPreviewImage.setImageBitmap(bitmapImage);
 
             mRgba.release();
-
+            btnPredict.setEnabled(false);
         });
         try{
             int inputSize= 48;

@@ -11,11 +11,11 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 118368378
+    "memoizedHashCode": -975036011
   },
   {
     "level_": 0,
-    "message_": "rebuilding JSON F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\\android_gradle_build.json due to:",
+    "message_": "JSON \u0027F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
     "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
     "tag_": "debug|armeabi-v7a",
     "diagnosticCode_": 0,
@@ -25,147 +25,7 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -2142740985
-  },
-  {
-    "level_": 0,
-    "message_": "- a hard configure file changed, will remove stale configuration folder",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 924193819
-  },
-  {
-    "level_": 0,
-    "message_": "  - F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\\metadata_generation_command.txt (LAST_MODIFIED_CHANGED)",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -217506236
-  },
-  {
-    "level_": 0,
-    "message_": "removing stale contents from \u0027F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\u0027",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -421550333
-  },
-  {
-    "level_": 0,
-    "message_": "created folder \u0027F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\u0027",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -226225649
-  },
-  {
-    "level_": 0,
-    "message_": "executing cmake @echo off\n\"F:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dF:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6cd4y6t1\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6cd4y6t1\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\.cxx\\\\Debug\\\\6cd4y6t1\\\\armeabi-v7a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 352014569
-  },
-  {
-    "level_": 0,
-    "message_": "@echo off\n\"F:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darmeabi-v7a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\" ^\n  \"-DANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dF:\\\\ProgramData\\\\Android\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dF:\\\\ProgramData\\\\Android\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6cd4y6t1\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\6cd4y6t1\\\\obj\\\\armeabi-v7a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BF:\\\\Documents\\\\Age_gender_detector\\\\OpenCv\\\\.cxx\\\\Debug\\\\6cd4y6t1\\\\armeabi-v7a\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1062294488
-  },
-  {
-    "level_": 0,
-    "message_": "Exiting generation of F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\\compile_commands.json.bin normally",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -168103195
-  },
-  {
-    "level_": 0,
-    "message_": "done executing cmake",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -206504226
-  },
-  {
-    "level_": 0,
-    "message_": "deleted unexpected build output F:\\Documents\\Age_gender_detector\\OpenCv\\build\\intermediates\\cxx\\Debug\\6cd4y6t1\\obj\\armeabi-v7a\\libc++_shared.so in incremental regenerate",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1294549584
-  },
-  {
-    "level_": 0,
-    "message_": "hard linked F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\Debug\\6cd4y6t1\\armeabi-v7a\\compile_commands.json to F:\\Documents\\Age_gender_detector\\OpenCv\\.cxx\\tools\\debug\\armeabi-v7a\\compile_commands.json",
-    "file_": "F:\\Documents\\Age_gender_detector\\OpenCv\\libcxx_helper\\CMakeLists.txt",
-    "tag_": "debug|armeabi-v7a",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 203126806
+    "memoizedHashCode": -1999207015
   },
   {
     "level_": 0,
@@ -179,6 +39,6 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1731568858
+    "memoizedHashCode": 638164469
   }
 ]

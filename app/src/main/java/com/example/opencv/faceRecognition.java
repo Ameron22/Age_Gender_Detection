@@ -45,7 +45,7 @@ public class faceRecognition {
         INPUT_SIZE = input_size;
         boolean useGpuDelegate = false;
         final  Interpreter.Options options = new Interpreter.Options();
-        options.setNumThreads(2); //If the phone can't manage it, reduce the number of threads
+        options.setNumThreads(3); //If the phone can't manage it, reduce the number of threads
         if (useGpuDelegate){
             //define Gputdelegate;
             GpuDelegate gpuDelegate = new GpuDelegate();
@@ -137,12 +137,9 @@ public class faceRecognition {
             //convert scaledBitmap to byteBuffer
             ByteBuffer byteBuffer = convertBitmaptoByteBuffer(scaledBitmap);
 
-
+            //Marixes used to store predictions
             float[][] sex = new float[1][1];
-            float[][] age = new float[1][7]; // Modify the shape as needed
-            //float[][][] outputs = {sex, age};
-            //float[][][] outputs = new float[1][2][8];
-            // create output buffers and associate them with output arrays
+            float[][] age = new float[1][7];
 
             sex_interpreter.run(byteBuffer, sex);
             age_interpreter.run(byteBuffer, age);
@@ -163,7 +160,7 @@ public class faceRecognition {
     }
 
     private String detect_age_gender(float sex_val, float[] age_vals) {
-        String val= " " + sex_val;
+        String val= " "; //+ sex_val;
         if(sex_val < 0.5){
             val += "Male ";
         }else {
@@ -182,22 +179,20 @@ public class faceRecognition {
         if (maxIndx == 0) {
             val += "0-2";
         } else if (maxIndx == 1) {
-            val += "3-6";
+            val += "3-9";
         } else if (maxIndx == 2) {
-            val += "7-11";
+            val += "10-20";
         } else if (maxIndx == 3) {
-            val += "12-17";
+            val += "21-28";
         } else if (maxIndx == 4) {
-            val += "18-29";
+            val += "28-45";
         } else if (maxIndx == 5) {
-            val += "30-49";
-        } else if (maxIndx == 6) {
-            val += "50-74";
+            val += "46-65";
         } else {
-            val += "75+";
+            val += "66+";
         }
 
-        val += " years " + age_vals[maxIndx]*100 +"%";
+        val += " years ";// + age_vals[maxIndx]*100 +"%";
 
         return val;
     }
